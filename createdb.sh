@@ -1,3 +1,3 @@
 sudo service postgresql start
-sudo -u postgres createdb db/helloreactrails
+sudo -u postgres createdb db/developmentgreetingapi
 rails db:migrate 
