@@ -21,7 +21,7 @@ You also need to download and run a second project that works as the front end, 
 
 To get a local copy up and running follow these simple example steps.
 
-- First, you need to fork the repository [Twitter](git@github.com:JAAR91/hello-rails-react.git)
+- First, you need to fork the repository [Hello Rails Api](https://github.com/JAAR91/hello-rails-back-end/tree/feature/linters)
 
 - Copy the ssh using the green code button
 
